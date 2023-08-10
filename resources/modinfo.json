@@ -1,0 +1,12 @@
+{
+    "type": "code",
+    "side": "universal",
+    "modid": "cancelbooksignature",
+    "name": "Cancel Book Signature",
+    "description": "The same author can now remove the signature from books and parchments.",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.1",
+    "dependencies": {
+        "game": "1.18.8"
+    }
+}
